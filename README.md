@@ -13,10 +13,17 @@ Nostalgicord is a Discord archival project archiving clients, client modules, we
 
 ## Links to us in other websites
 YT: https://youtube.com/channel/UCPEaFmFcpl6sh6qBfh6v0PQ
+
 Discord server: https://discord.gg/wBPBqpN5Sa
+
 Office Fosscord Instance guild: 
+
 https://dev.fosscord.com/invite/czyIXN 
+
 https://dev.fosscord.com/invite/53SA1E
+
 https://dev.fosscord.com/invite/ZzD7VN
+
 https://dev.fosscord.com/invite/TgmpoR
+
 Twitter: https://twitter.com/nostalgicord
