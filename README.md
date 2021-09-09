@@ -1,6 +1,6 @@
 # Nostalgicord
 ## About
-Nostalgicord is a Discord archival project archiving web builds and videos from Discord's YT page. Also having a (planned) Fosscord/Litecord instance, documents workings of Discord (client and discord_desktop_core module), and a modded (and legal) Discord client to load web builds.
+Nostalgicord is a Discord archival project archiving web builds. Also having a (planned) Fosscord/Litecord instance, documents workings of Discord client and discord_desktop_core module, and a modded (and legal) Discord client/Node.js Express Server to load archived web builds.
 
 ## Repositories
 | Repository | Description |
