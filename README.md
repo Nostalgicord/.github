@@ -2,6 +2,9 @@
 ## About
 Nostalgicord is a Discord archival project archiving web builds. Also having a (planned) Fosscord/Litecord instance, documents workings of Discord client and discord_desktop_core module, and a modded (and legal) Discord client/Node.js Express Server to load archived web builds.
 
+## Name origin
+Nostalgic + Discord = Nostalgicord, represents the project well.
+
 ## Repositories
 | Repository | Description |
 | :--- | :--- |
