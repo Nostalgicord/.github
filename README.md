@@ -21,6 +21,7 @@ Discord server: https://discord.gg/wBPBqpN5Sa
 
 Office Fosscord Instance guild: 
 
+https://fc.nostalgicord.featyre.xyz/invite/z2TCd9
 https://dev.fosscord.com/invite/NLyk7w
 
 Twitter: https://twitter.com/nostalgicord
